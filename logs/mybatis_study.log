@@ -1,0 +1,8 @@
+[TRACE] [2020-03-30 11:54:17] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-30 11:54:17] HikariProxyConnection@428704855 wrapping com.mysql.jdbc.JDBC4Connection@60c8350f
+[TRACE] [2020-03-30 12:06:47] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-30 12:06:47] HikariProxyConnection@428704855 wrapping com.mysql.jdbc.JDBC4Connection@60c8350f
+[DEBUG] [2020-03-30 12:06:47] testOpenSession()
+[TRACE] [2020-03-30 12:11:38] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-30 12:11:38] HikariProxyConnection@428704855 wrapping com.mysql.jdbc.JDBC4Connection@60c8350f
+[DEBUG] [2020-03-30 12:11:38] testOpenSession()
