@@ -1,7 +1,6 @@
 package mybatis_study.jdbc;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.Properties;
 
 import org.apache.ibatis.io.Resources;
@@ -15,7 +14,7 @@ public class HikariCPFactory {
 	private static int maxPoolSize = 100;
 
 	public HikariCPFactory() {
-		try (InputStream is = ClassLoader.getSystemResourceAsStream("application.properties")) {
+		try {
 			Properties prop = Resources.getResourceAsProperties("application.properties");
 			HikariConfig cfg = new HikariConfig(prop);
 			dataSource = new HikariDataSource(cfg);

@@ -6,3 +6,39 @@
 [TRACE] [2020-03-30 12:11:38] HikariDataSource (HikariPool-1)
 [TRACE] [2020-03-30 12:11:38] HikariProxyConnection@428704855 wrapping com.mysql.jdbc.JDBC4Connection@60c8350f
 [DEBUG] [2020-03-30 12:11:38] testOpenSession()
+[DEBUG] [2020-03-31 10:52:56] testOpenSession()
+[TRACE] [2020-03-31 10:52:56] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 10:52:56] HikariProxyConnection@1991447808 wrapping com.mysql.jdbc.JDBC4Connection@79bee136
+[DEBUG] [2020-03-31 10:53:19] testOpenSession()
+[TRACE] [2020-03-31 10:53:20] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 10:53:20] HikariProxyConnection@10538535 wrapping com.mysql.jdbc.JDBC4Connection@1ea374f4
+[DEBUG] [2020-03-31 11:01:39] testOpenSession()
+[TRACE] [2020-03-31 11:01:40] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 11:01:40] HikariProxyConnection@10538535 wrapping com.mysql.jdbc.JDBC4Connection@1ea374f4
+[DEBUG] [2020-03-31 12:10:32] testOpenSession()
+[TRACE] [2020-03-31 12:10:33] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 12:10:33] HikariProxyConnection@902698199 wrapping com.mysql.jdbc.JDBC4Connection@49c5b16
+[DEBUG] [2020-03-31 12:10:38] testOpenSession()
+[TRACE] [2020-03-31 12:10:38] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 12:10:38] HikariProxyConnection@902698199 wrapping com.mysql.jdbc.JDBC4Connection@49c5b16
+[TRACE] [2020-03-31 12:11:41] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 12:11:41] HikariProxyConnection@1381427604 wrapping com.mysql.jdbc.JDBC4Connection@79bd2b5f
+[DEBUG] [2020-03-31 12:11:41] testOpenSession()
+[TRACE] [2020-03-31 12:13:54] HikariDataSource (HikariPool-1)
+[TRACE] [2020-03-31 12:13:54] HikariProxyConnection@428704855 wrapping com.mysql.jdbc.JDBC4Connection@60c8350f
+[DEBUG] [2020-03-31 12:13:54] testOpenSession()
+[DEBUG] [2020-04-02 11:17:30] testOpenSession()
+[TRACE] [2020-04-02 11:17:30] HikariDataSource (HikariPool-1)
+[TRACE] [2020-04-02 11:17:30] HikariProxyConnection@642331230 wrapping com.mysql.jdbc.JDBC4Connection@63e4e2ec
+[DEBUG] [2020-04-02 11:17:30] testSelectTutorBytutorId()
+[DEBUG] [2020-04-02 11:17:47] testOpenSession()
+[DEBUG] [2020-04-02 11:17:47] testSelectTutorBytutorId()
+[TRACE] [2020-04-02 11:17:48] HikariDataSource (HikariPool-1)
+[TRACE] [2020-04-02 11:17:48] HikariProxyConnection@1675944684 wrapping com.mysql.jdbc.JDBC4Connection@546416d
+[DEBUG] [2020-04-02 11:22:03] testOpenSession()
+[DEBUG] [2020-04-02 11:22:03] testSelectTutorBytutorId()
+[TRACE] [2020-04-02 11:22:04] HikariDataSource (HikariPool-1)
+[TRACE] [2020-04-02 11:22:04] HikariProxyConnection@1675944684 wrapping com.mysql.jdbc.JDBC4Connection@546416d
+[DEBUG] [2020-04-02 11:55:22] testOpenSession()
+[TRACE] [2020-04-02 11:55:22] HikariDataSource (HikariPool-1)
+[TRACE] [2020-04-02 11:55:22] HikariProxyConnection@1879303964 wrapping com.mysql.jdbc.JDBC4Connection@20f3d760
